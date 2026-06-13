@@ -23,15 +23,15 @@ I learn by building and challenge myself with projects that push boundaries.
     <td>Smart ticketing platform with QR-based validation, fraud prevention, and vendor tools</td>
   </tr>
   <tr>
-    <td><strong><a href="https://pranavrs18.github.io/delta_webdev_task2/" target="_blank">CyberScape</a></strong></td>
+    <td><strong><a href="https://justpranavrs.github.io/delta_webdev_task2/" target="_blank">CyberScape</a></strong></td>
     <td>An interactive web application built with HTML Canvas, featuring dynamic rendering and responsive visuals.</td>
   </tr>
   <tr>
-    <td><strong><a href="https://pranavrs18.github.io/quickitchen/" target="_blank">QuicKitchen</a></strong></td>
+    <td><strong><a href="https://justpranavrs.github.io/quickitchen/" target="_blank">QuicKitchen</a></strong></td>
     <td>Recipe finder app using TheMealDB API for real-time meal search</td>
   </tr>
   <tr>
-    <td><strong><a href="https://pranavrs18.github.io/delta_webdev_onsites_2/" target="_blank">Orbit Fall</a></strong></td>
+    <td><strong><a href="https://justpranavrs.github.io/delta_webdev_onsites_2/" target="_blank">Orbit Fall</a></strong></td>
     <td>Mini space physics game with gravitational mechanics</td>
   </tr>
 </table>
