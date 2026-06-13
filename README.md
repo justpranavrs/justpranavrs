@@ -72,4 +72,4 @@ I learn by building and challenge myself with projects that push boundaries.
 
 ---
 ### Contact
-<a href="mailto:pranavsaravanan.r@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>&nbsp;&nbsp;<a href="https://github.com/PranavRS18"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pranav-r-s-9a95b8322/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
+<a href="mailto:pranavsaravanan.r@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>&nbsp;&nbsp;<a href="https://github.com/justpranavrs"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pranav-r-s-9a95b8322/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
