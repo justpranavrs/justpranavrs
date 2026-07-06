@@ -8,10 +8,8 @@
 
 ### About Me
 
-Hey there! I'm Pranav R S, a student at NIT Trichy studying Electronics and Communication Engineering.
-I enjoy building low-level systems programming and also end-to-end digital solutions, bridging the gap between sophisticated AI models and the full-stack web applications that bring them to life.
-
-My Best, [tlru](https://github.com/justpranavrs/tlru), a zero allocation, array-based LRU cache implementation built for highly concurrent workloads built using a sharded architecture.
+Hey there! I'm `Pranav R S`, a student at `NIT Trichy` studying `Electronics and Communication Engineering`.
+I enjoy building low-level `systems programming` and also end-to-end digital solutions, bridging the gap between sophisticated `AI` models and the `full-stack web applications` that bring them to life.
 
 I learn by building and challenge myself with projects that push boundaries.
 
@@ -20,7 +18,15 @@ I learn by building and challenge myself with projects that push boundaries.
 <table>
   <tr>
     <td><strong><a href="https://github.com/justpranavrs/tlru" target="_blank">tlru</a></strong></td>
-    <td>Zero allocation array-based LRU Cache implementation in Go which is optimized for concurrent workloads.</td>
+    <td>A Fast, Thread-safe, Time-Aware Sharded LRU Cache with Zero allocations.</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/justpranavrs/skipanda" target="_blank">SkiPanda</a></strong></td>
+    <td>A zero-dependency x86 BIOS bootloader written in NASM.</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/CyliaAI/cylia-website" target="_blank">Cylia</a></strong></td>
+    <td>A Visual AI Workflow Builder and Automator</td>
   </tr>
   <tr>
     <td><strong><a href="https://swifticket-web.vercel.app/" target="_blank">SwifTicket</a></strong></td>
@@ -31,12 +37,8 @@ I learn by building and challenge myself with projects that push boundaries.
     <td>An interactive web application built with HTML Canvas, featuring dynamic rendering and responsive visuals.</td>
   </tr>
   <tr>
-    <td><strong><a href="https://justpranavrs.github.io/quickitchen/" target="_blank">QuicKitchen</a></strong></td>
-    <td>Recipe finder app using TheMealDB API for real-time meal search</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://justpranavrs.github.io/delta_webdev_onsites_2/" target="_blank">Orbit Fall</a></strong></td>
-    <td>Mini space physics game with gravitational mechanics</td>
+    <td><strong><a href="https://github.com/justpranavrs/pranavrs_spider_ml_onsites" target="_blank">Demographic Analysis System</a></strong></td>
+    <td>A Model to Predict Age, Gender and Ethnicity</td>
   </tr>
 </table>
 
@@ -47,19 +49,19 @@ I learn by building and challenge myself with projects that push boundaries.
 #### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,html,css,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,rust,bash&perline=8" />
 </p>
 
 #### WebDev Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,vue,svelte,tailwind,nodejs,express,fastapi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,next,vue,svelte,tailwind,nodejs,express,fastapi&perline=8" />
 </p>
 
 #### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,prisma,supabase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,prisma,supabase,sqlite&perline=8" />
 </p>
 
 #### ML & AI
@@ -71,11 +73,19 @@ I learn by building and challenge myself with projects that push boundaries.
 #### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&perline=8" />
 </p>
 
 ---
 
 ### Contact
 
-<a href="mailto:pranavsaravanan.r@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>&nbsp;&nbsp;<a href="https://github.com/justpranavrs"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pranav-r-s-9a95b8322/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
+<a href="mailto:pranavsaravanan.r@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/justpranavrs">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pranav-r-s-9a95b8322/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
