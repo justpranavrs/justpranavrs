@@ -117,10 +117,6 @@ status: shipping
 
 ---
 
-<h3 align="center">
-  <code>Activity Logs</code>
-</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/justpranavrs/justpranavrs/activity/activity.svg" alt="Activity Logs" width="100%" />
 </p>
