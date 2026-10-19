@@ -51,7 +51,7 @@ status: shipping
 <table width="100%" align="center" border="0" cellspacing="12" cellpadding="0" style="border-collapse: separate; border-spacing: 12px; border: none;">
   <tr>
     <td width="50%" align="center" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 18px 14px;">
-      <h4 align="center" style="margin-top: 0; margin-bottom: 12px; color: #c9d1d9; font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; font-size: 15px; font-weight: 600; letter-spacing: 0.5px;">Languages & Systems</h4>
+      <p align="center"><strong><code>Languages & Systems</code></strong></p>
       <p align="center" style="margin-bottom: 0;">
         <a href="https://go.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" /></a>&nbsp;
         <a href="https://www.rust-lang.org" target="_blank"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" /></a>&nbsp;
@@ -64,7 +64,7 @@ status: shipping
       </p>
     </td>
     <td width="50%" align="center" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 18px 14px;">
-      <h4 align="center" style="margin-top: 0; margin-bottom: 12px; color: #c9d1d9; font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; font-size: 15px; font-weight: 600; letter-spacing: 0.5px;">Web & Backend</h4>
+      <p align="center"><strong><code>Web & Backend</code></strong></p>
       <p align="center" style="margin-bottom: 0;">
         <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" /></a>&nbsp;
         <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>&nbsp;
@@ -80,7 +80,7 @@ status: shipping
   </tr>
   <tr>
     <td width="50%" align="center" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 18px 14px;">
-      <h4 align="center" style="margin-top: 0; margin-bottom: 12px; color: #c9d1d9; font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; font-size: 15px; font-weight: 600; letter-spacing: 0.5px;">Databases & Storage</h4>
+      <p align="center"><strong><code>Databases & Storage</code></strong></p>
       <p align="center" style="margin-bottom: 0;">
         <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" /></a>&nbsp;
         <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /></a>&nbsp;
@@ -92,7 +92,7 @@ status: shipping
       </p>
     </td>
     <td width="50%" align="center" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 18px 14px;">
-      <h4 align="center" style="margin-top: 0; margin-bottom: 12px; color: #c9d1d9; font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; font-size: 15px; font-weight: 600; letter-spacing: 0.5px;">DevOps & Tools</h4>
+      <p align="center"><strong><code>DevOps & Tools</code></strong></p>
       <p align="center" style="margin-bottom: 0;">
         <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>&nbsp;
         <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" /></a>&nbsp;
@@ -106,7 +106,7 @@ status: shipping
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 18px 14px;">
-      <h4 align="center" style="margin-top: 0; margin-bottom: 12px; color: #c9d1d9; font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; font-size: 15px; font-weight: 600; letter-spacing: 0.5px;">AI & Vision</h4>
+      <p align="center"><strong><code>AI & Vision</code></strong></p>
       <p align="center" style="margin-bottom: 0;">
         <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a>&nbsp;
         <a href="https://opencv.org" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" /></a>
@@ -117,8 +117,8 @@ status: shipping
 
 ---
 
-<h3 align="center" style="font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace;">
-  Activity Logs
+<h3 align="center">
+  <code>Activity Logs</code>
 </h3>
 
 <p align="center">
